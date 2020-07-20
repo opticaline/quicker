@@ -1,0 +1,20 @@
+{
+    "name": "Quicker!",
+    "description": "Search the selected content on the specified website or find contain links.",
+    "version": "0.0.1",
+    "permissions": [
+        "contextMenus"
+    ],
+    "background": {
+        "persistent": false,
+        "scripts": [
+            "main.js"
+        ]
+    },
+    "icons": {
+        "16": "icon-16x16.png",
+        "48": "icon-48x48.png",
+        "128": "icon-128x128.png"
+    },
+    "manifest_version": 2
+}
